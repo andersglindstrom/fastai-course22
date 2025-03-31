@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 from duckduckgo_search import DDGS
 from fastcore.all import L
@@ -12,6 +13,6 @@ from fastdownload import download_url
 dest = 'bird.jpg'
 download_url(urls[0], dest, show_progress=False)
 
-##from fastai.vision.all import *
-##im = Image.open(dest)
-##im.to_thumb(256,256)
+from fastai.vision.all import *
+im = Image.open(dest)
+im.to_thumb(256,256)
