@@ -11,4 +11,5 @@ $ jupyter notebook
 * Lesson 01 - Complete
 * Lesson 02 - Complete
 * Lesson 03 - Broken - Skipped
-* Lesson 04 - In Progress
+* Lesson 04 - Complete
+* Lesson 05 - Not Started
