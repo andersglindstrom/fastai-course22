@@ -8,4 +8,5 @@ $ jupyter notebook
 # Progress
 
 * Lesson 00 - Complete
-* Lesson 01 - In Progress
+* Lesson 01 - Complete
+* Lesson 02 - In Progress
