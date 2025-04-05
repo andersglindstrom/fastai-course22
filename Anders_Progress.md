@@ -23,7 +23,8 @@ $ jupyter lab&
 * Lesson 05 - Complete
 * Lesson 06 - Complete
 * Lesson 07 - Complete
-* Lesson 08 - Started
+* Lesson 08 - Complete
+* Lesson 09 - Started
 
 [Online Walkthroughs][https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM]
 
