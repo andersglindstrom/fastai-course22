@@ -22,4 +22,4 @@ $ jupyter lab&
 * Lesson 04 - Complete
 * Lesson 05 - Complete
 * Lesson 06 - Complete
-* Lesson 07 - Started
+* Lesson 07 - Complete
