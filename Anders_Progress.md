@@ -1,8 +1,16 @@
 # To Start Jupyter
 
+First, the `pytorch_env` Conda environment must be activated and then the notebook server
+
 ```
 $ conda activate pytorch_env
-$ jupyter notebook
+$ jupyter notebook&
+```
+
+Or, for Jupyter lab:
+
+```
+$ jupyter lab&
 ```
 
 # Progress
@@ -12,4 +20,4 @@ $ jupyter notebook
 * Lesson 02 - Complete
 * Lesson 03 - Broken - Skipped
 * Lesson 04 - Complete
-* Lesson 05 - Not Started
+* Lesson 05 - Started
