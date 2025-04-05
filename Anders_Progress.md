@@ -21,4 +21,4 @@ $ jupyter lab&
 * Lesson 03 - Broken - Skipped
 * Lesson 04 - Complete
 * Lesson 05 - Complete
-* Lesson 06 - Started
+* Lesson 06 - Complete
